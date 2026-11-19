@@ -1,0 +1,10 @@
+[package]
+name = "Mathramming"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "mathramming"
+path = "src/mathramming/rust/main.rs"
+
+[dependencies]
